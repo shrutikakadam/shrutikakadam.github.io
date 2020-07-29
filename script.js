@@ -11,13 +11,13 @@ function mainCtrl($mdSidenav){
   vm.menuOpened = false;
   vm.historyTiles = [
     {
-      year: 1955,
-      title: "A legend is born.",
+      year: 1997,
+      title: "A foodie is born.",
       image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/c4f43cf93452db224a18cb51d027f22c_three_column.jpg"
     },
     {
-      year: 1967,
-      title: "Attends Lakeside School.",
+      year: 1997,
+      title: "Named 'Shrutika' meaning 'Silent'(lol).",
       image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f697fcc06aec128ad08a41bc0fedf325_three_column.jpg"
     },
     {
