@@ -21,8 +21,8 @@ function mainCtrl($mdSidenav){
       image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f697fcc06aec128ad08a41bc0fedf325_three_column.jpg"
     },
     {
-      year: 1973,
-      title: "Enrolls at Harvard University.",
+      year: 1999,
+      title: "Kindergarten Girl.",
       image: "https://harvardgazette.files.wordpress.com/2013/09/090913_gates_archives_019_605.jpg"
     },
     {
@@ -55,8 +55,8 @@ function mainCtrl($mdSidenav){
       image: "http://b-i.forbesimg.com/clareoconnor/files/2013/04/bill-gates-paul-allen-1981.jpg"
     },
     {
-      year: 1983,
-      title: "Microsoft announces Windows as an extension of its MS-DOS operating system.",
+      year: 2019,
+      title: "February - Bhandardara.",
       image: "https://expert4data.files.wordpress.com/2014/01/pc.jpg"
     },
     // {
@@ -64,18 +64,18 @@ function mainCtrl($mdSidenav){
     //   title: "Bill Gates founds Corbis, an archive of art and photography."
     // },
     {
-      year: 1994,
-      title: "Bill Gates marries Melida French.",
+      year: 2020,
+      title: "January - Saguna Baug.",
       image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/787f438c34d55648e89a62e27cfd7220_three_column.jpg"
     },
     {
-      year: 2000,
-      title: "Gates steps down as CEO of Microsoft and Steve Ballmer takes over the helm.",
+      year: 2020,
+      title: "Almost a Dentist.",
       image: "https://3.bp.blogspot.com/-0xhmNGVGY2Q/Uh0R-eVLnsI/AAAAAAAAAbs/IqAeNiM58KM/s640/2.JPG"
     },
     {
-      year: 2007,
-      title: "Graduates from Harvard after leaving his junior year to develop Microsoft in 1973.",
+      year: 2020,
+      title: "Foodie turns 24.",
       image: "http://www.jeremyperson.com/wp-content/uploads/2009/07/bill-gates-commencement.jpg"
     },
   ];
