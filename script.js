@@ -66,7 +66,7 @@ function mainCtrl($mdSidenav){
     {
       year: 2020,
       title: "January - Saguna Baug.",
-      image: "F:\Prasad\IITB Tut\two\shrutikakadam.github.io\pics\3.jpeg"
+      image: "shrutikakadam.github.io\pics\3.jpeg"
     },
     {
       year: 2020,
