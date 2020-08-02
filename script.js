@@ -26,8 +26,8 @@ function mainCtrl($mdSidenav){
       image: "https://harvardgazette.files.wordpress.com/2013/09/090913_gates_archives_019_605.jpg"
     },
     {
-      year: 1975,
-      title: "Micro-Soft is formed, a partnership between Bill Gates and Paul Allen.",
+      year: 2013,
+      title: "School Ends.",
       image:"https://d3v93rzqvnwm3k.cloudfront.net/photos/images/4a8aa7ff781018b94613c59a6def695c_three_column.jpg"
     },
     // {
@@ -35,18 +35,18 @@ function mainCtrl($mdSidenav){
     //   title: "Writes \"Open Letter to Hobbyists\"."
     // },
     {
-      year: 1978,
-      title: "Opens first international office in Japan.",
+      year: 2015,
+      title: "16th February",
       image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/1ad4b83971a6cc72d507d50740a87771_three_column.jpg"
     },
     {
-      year: 1979,
-      title: "Relocates headquarters to Bellevue, Washington.",
+      year: 2015,
+      title: "12th Ends.",
       image:"https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAKdAAAAJDNjNzZjYmU5LTgwMjAtNDFjZi1hZDU3LTNjYzk5ZTRmNmJiYQ.jpg"
     },
     {
-      year: 1980,
-      title: "Microsoft partners with IBM to write BASIC for the IBM PC.",
+      year: 2016,
+      title: "Becoming a Dentist",
       image: "http://www.computerhistory.org/atchm/wp-content/uploads/2013/12/IMG_19771.jpg"
     },
     {
