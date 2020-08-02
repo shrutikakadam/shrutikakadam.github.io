@@ -66,7 +66,7 @@ function mainCtrl($mdSidenav){
     {
       year: 2020,
       title: "January - Saguna Baug.",
-      image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/787f438c34d55648e89a62e27cfd7220_three_column.jpg"
+      image: "F:\Prasad\IITB Tut\two\shrutikakadam.github.io\pics\3.jpeg"
     },
     {
       year: 2020,
