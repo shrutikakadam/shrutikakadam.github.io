@@ -13,22 +13,22 @@ function mainCtrl($mdSidenav){
     {
       year: 1997,
       title: "A foodie is born.",
-      image: "pics/1"
+      image: "pics/1.jpg"
     },
     {
       year: 1997,
       title: "Named 'Shrutika' meaning 'Silent'(lol).",
-      image: "pics/2"
+      image: "pics/2.jpg"
     },
     {
       year: 1999,
       title: "Kindergarten Girl.",
-      image: "pics/3"
+      image: "pics/3.jpg"
     },
     {
       year: 2013,
       title: "School Ends.",
-      image:"pics/4"
+      image:"pics/4.jpg"
     },
     // {
     //   year: 1976,
@@ -37,27 +37,27 @@ function mainCtrl($mdSidenav){
     {
       year: 2015,
       title: "16th February",
-      image: "pics/5"
+      image: "pics/5.jpg"
     },
     {
       year: 2015,
       title: "12th Ends.",
-      image:"pics/6"
+      image:"pics/6.jpg"
     },
     {
       year: 2016,
       title: "4th August - LOL",
-      image: "pics/7"
+      image: "pics/7.jpg"
     },
     {
       year: 2016,
       title: "Becoming a Dentist",
-      image: "pics/8"
+      image: "pics/8.jpg"
     },
     {
       year: 2019,
       title: "February - Bhandardara.",
-      image: "pics/9"
+      image: "pics/9.jpg"
     },
     // {
     //   year: 1989,
@@ -66,17 +66,17 @@ function mainCtrl($mdSidenav){
     {
       year: 2020,
       title: "January - Saguna Baug.",
-      image: "pics/10"
+      image: "pics/10.jpg"
     },
     {
       year: 2020,
       title: "Almost a Dentist.",
-      image: "pics/11"
+      image: "pics/11.jpg"
     },
     {
       year: 2020,
       title: "Foodie turns 24.",
-      image: "pics/12"
+      image: "pics/12.jpg"
     },
   ];
   
