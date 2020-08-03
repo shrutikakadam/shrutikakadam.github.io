@@ -13,22 +13,22 @@ function mainCtrl($mdSidenav){
     {
       year: 1997,
       title: "A foodie is born.",
-      image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/c4f43cf93452db224a18cb51d027f22c_three_column.jpg"
+      image: "pics/1"
     },
     {
       year: 1997,
       title: "Named 'Shrutika' meaning 'Silent'(lol).",
-      image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/f697fcc06aec128ad08a41bc0fedf325_three_column.jpg"
+      image: "pics/2"
     },
     {
       year: 1999,
       title: "Kindergarten Girl.",
-      image: "https://harvardgazette.files.wordpress.com/2013/09/090913_gates_archives_019_605.jpg"
+      image: "pics/3"
     },
     {
       year: 2013,
       title: "School Ends.",
-      image:"https://d3v93rzqvnwm3k.cloudfront.net/photos/images/4a8aa7ff781018b94613c59a6def695c_three_column.jpg"
+      image:"pics/4"
     },
     // {
     //   year: 1976,
@@ -37,27 +37,27 @@ function mainCtrl($mdSidenav){
     {
       year: 2015,
       title: "16th February",
-      image: "https://d3v93rzqvnwm3k.cloudfront.net/photos/images/1ad4b83971a6cc72d507d50740a87771_three_column.jpg"
+      image: "pics/5"
     },
     {
       year: 2015,
       title: "12th Ends.",
-      image:"https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAKdAAAAJDNjNzZjYmU5LTgwMjAtNDFjZi1hZDU3LTNjYzk5ZTRmNmJiYQ.jpg"
+      image:"pics/6"
     },
     {
       year: 2016,
       title: "4th August - LOL",
-      image: "http://www.computerhistory.org/atchm/wp-content/uploads/2013/12/IMG_19771.jpg"
+      image: "pics/7"
     },
     {
       year: 2016,
       title: "Becoming a Dentist",
-      image: "http://b-i.forbesimg.com/clareoconnor/files/2013/04/bill-gates-paul-allen-1981.jpg"
+      image: "pics/8"
     },
     {
       year: 2019,
       title: "February - Bhandardara.",
-      image: "https://expert4data.files.wordpress.com/2014/01/pc.jpg"
+      image: "pics/9"
     },
     // {
     //   year: 1989,
@@ -66,17 +66,17 @@ function mainCtrl($mdSidenav){
     {
       year: 2020,
       title: "January - Saguna Baug.",
-      image: "pics/3.jpeg"
+      image: "pics/10"
     },
     {
       year: 2020,
       title: "Almost a Dentist.",
-      image: "https://3.bp.blogspot.com/-0xhmNGVGY2Q/Uh0R-eVLnsI/AAAAAAAAAbs/IqAeNiM58KM/s640/2.JPG"
+      image: "pics/11"
     },
     {
       year: 2020,
       title: "Foodie turns 24.",
-      image: "http://www.jeremyperson.com/wp-content/uploads/2009/07/bill-gates-commencement.jpg"
+      image: "pics/12"
     },
   ];
   
