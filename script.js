@@ -46,12 +46,12 @@ function mainCtrl($mdSidenav){
     },
     {
       year: 2016,
-      title: "Becoming a Dentist",
+      title: "4th August - LOL",
       image: "http://www.computerhistory.org/atchm/wp-content/uploads/2013/12/IMG_19771.jpg"
     },
     {
-      year: 1981,
-      title: "Microsoft becomes incorporated and Bill Gates becomes President.",
+      year: 2016,
+      title: "Becoming a Dentist",
       image: "http://b-i.forbesimg.com/clareoconnor/files/2013/04/bill-gates-paul-allen-1981.jpg"
     },
     {
