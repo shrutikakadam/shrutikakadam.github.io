@@ -75,7 +75,7 @@ function mainCtrl($mdSidenav){
     },
     {
       year: 2020,
-      title: "Foodie turns 24.",
+      title: "Foodie turns 23.",
       image: "pics/12.jpg"
     },
   ];
